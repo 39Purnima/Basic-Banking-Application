@@ -1,2 +1,1 @@
-
-Banking System App which keeps track of user's and can transfer money to other user's ,able to see their transaction history.
+This application shows the history and transaction of the customers.Here the customers are dummy.
